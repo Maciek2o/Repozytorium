@@ -22,7 +22,7 @@ public class ATMExample
             switch(choice)  
             {  
                 case 1:  
-        System.out.print("Enter money to be withdrawn:");  
+        System.out.print("withdrawn:");  
                       
         withdraw = sc.nextInt();  
                       
